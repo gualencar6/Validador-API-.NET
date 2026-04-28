@@ -1,20 +1,22 @@
-# 🔎 Validador de Dados API
+<img width="1687" height="1000" alt="image" src="https://github.com/user-attachments/assets/da85ca17-11f3-423b-a00c-3e66503fe31c" />
+
+# Validador de Dados API
 
 API desenvolvida em ASP.NET Core para validação de dados como CPF, IP e Senha.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * ✔ Validação de CPF
 * ✔ Validação de IP
 * ✔ Validação de Senha
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * .NET
 * ASP.NET Core Web API
 * Swagger
 
-## ▶️ Como executar
+## Como executar
 
 Abra o arquivo e roda no terminal: dotnet run
 
@@ -23,7 +25,7 @@ Acesse no navegador:
 http://localhost:xxxx/swagger
 
 
-## 📌 Endpoints
+## Endpoints
 
 ### Validar CPF
 
